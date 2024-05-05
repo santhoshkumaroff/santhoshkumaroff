@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santhosh Kumar S</h1>
 <h3 align="center">A passionate Web developer from India</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshkumaroff&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshkumaroff" /> </p>
-
 - 🔭 I’m currently working on Ecommerce project [Devi's Masala](https://github.com/santhoshkumaroff/Angular-E-commerce-website)
 
 - 🌱 I’m currently learning **Angular, Django, NodeJs**
@@ -26,3 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhoshkumaroff&show_icons=true&locale=en&layout=compact" alt="santhoshkumaroff" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhoshkumaroff&show_icons=true&locale=en" alt="santhoshkumaroff" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshkumaroff&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshkumaroff" /> </p>
+
