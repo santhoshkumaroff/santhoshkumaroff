@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Santhosh Kumar S</h1>
-<h3 align="center">A passionate Web developer from India</h3> 
+<h3 align="center">A passionate ML developer from India</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshkumaroff&label=Profile%20views&color=blue&style=flat" width="150" alt="santhoshkumaroff" /> </p>
 
 - 🔭 I’m currently working on Ecommerce project [Devi's Masala](https://github.com/santhoshkumaroff/Angular-E-commerce-website)
 
-- 🌱 I’m currently learning **Angular, Django, NodeJs**
+- 🌱 Recent Skills **Machine Learning, Advance Python, Python Libraries**
 
 - 👨‍💻 All of my projects are available at [https://github.com/santhoshkumaroff?tab=repositories](https://github.com/santhoshkumaroff?tab=repositories)
 
-- 🤝 About me **"Experienced in web development and Python. Passionate about crafting exceptional digital experiences. Committed to elevating company projects with innovation."**
+- 🤝 About me **"Experience in Machine Learning and Python. Passionate about crafting exceptional digital experiences. Committed to elevating company projects with innovation."**
 
 - 📫 How to reach me **ssanthoshkumar.official@gmail.com**
 
