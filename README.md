@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:58A6FF&text=Santhosh%20Kumar%20S&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:58A6FF&text=Santhosh%20Kumar%20S&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
 
-# Machine Learning Engineer • Generative AI Developer • Backend Engineer
+# 🚀 Machine Learning Engineer • Generative AI Developer • Backend Engineer
 
-### Building Production-Ready AI Systems, Intelligent Automation & Scalable Applications
+### Building Production-Ready AI Systems • LLM Applications • Intelligent Automation Solutions
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;Generative+AI+Developer;LLM+Engineer;RAG+Specialist;AI+Automation+Developer;Building+Production+Ready+AI+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;Generative+AI+Developer;LLM+Engineer;RAG+Specialist;AI+Automation+Developer;Backend+Engineer;Building+Production+Ready+AI+Systems" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-Generative%20AI-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Specialization-LLM%20%26%20RAG-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge" />
@@ -19,14 +19,14 @@
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
 ```yaml
 Name: Santhosh Kumar S
 
 Role: Machine Learning Engineer
 
-Focus Areas:
+Specializations:
   - Machine Learning
   - Generative AI
   - LLM Applications
@@ -34,7 +34,7 @@ Focus Areas:
   - Backend Engineering
   - AI Automation
 
-Current Mission:
+Mission:
   Building intelligent systems that solve real-world business problems.
 ```
 
@@ -48,9 +48,9 @@ Current Mission:
 
 🟢 Exploring Agentic AI Architectures
 
-🟢 Designing Scalable Backend APIs
+🟢 Backend API Engineering
 
-🟢 AI Workflow Automation
+🟢 Intelligent Workflow Automation
 
 🟢 Continuous Learning & Innovation
 
@@ -60,7 +60,7 @@ Current Mission:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,django,fastapi,nodejs,nextjs,angular,postgres,mysql,firebase,docker,git,linux,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,django,fastapi,nodejs,nextjs,angular,postgres,mysql,firebase,docker,git,linux,vscode&perline=7" />
 
 </div>
 
@@ -72,7 +72,7 @@ Current Mission:
 |----------|----------|
 | Artificial Intelligence | Machine Learning, Deep Learning |
 | Generative AI | LLMs, Prompt Engineering |
-| RAG Systems | LangChain, ChromaDB |
+| RAG Systems | LangChain, Vector Databases |
 | Backend Development | FastAPI, Django, Node.js |
 | Frontend Development | Next.js, Angular |
 | Databases | PostgreSQL, MySQL |
@@ -102,7 +102,7 @@ Current Mission:
               │
               ▼
 ┌────────────────────────────┐
-│         Databases          │
+│       Data Layer           │
 │ PostgreSQL • MySQL • Vector│
 └────────────────────────────┘
 ```
@@ -113,7 +113,7 @@ Current Mission:
 
 ## 🎙 Voice Separation System
 
-Machine Learning solution capable of separating speaker and listener voices from mixed audio streams using advanced signal processing.
+Machine Learning solution capable of separating speaker and listener voices from mixed audio streams.
 
 **Tech:** Python • TensorFlow • Audio Processing
 
@@ -121,7 +121,7 @@ Machine Learning solution capable of separating speaker and listener voices from
 
 ## 🤖 AI Interview Evaluation Platform
 
-AI-powered assessment platform featuring aptitude analysis, coding evaluation, and automated candidate reporting.
+AI-powered candidate assessment platform with aptitude evaluation, coding analysis, and automated reporting.
 
 **Tech:** Next.js • FastAPI • Gemini
 
@@ -129,7 +129,7 @@ AI-powered assessment platform featuring aptitude analysis, coding evaluation, a
 
 ## 🧠 Enterprise RAG Assistant
 
-Context-aware knowledge retrieval system powered by vector databases and Large Language Models.
+Knowledge retrieval system powered by vector databases and Large Language Models.
 
 **Tech:** LangChain • ChromaDB • Gemini
 
@@ -137,29 +137,61 @@ Context-aware knowledge retrieval system powered by vector databases and Large L
 
 ## ⚡ Intelligent Automation Suite
 
-AI-powered workflow automation platform for streamlining business operations and repetitive tasks.
+AI-powered workflow automation platform designed to streamline business operations.
 
 **Tech:** Python • APIs • Automation
 
 ---
 
-# 📈 Development Workflow
+# 📊 GitHub Analytics
 
-```text
-Idea
- ↓
-Research
- ↓
-Design
- ↓
-Development
- ↓
-Testing
- ↓
-Deployment
- ↓
-Optimization
-```
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshkumaroff&show_icons=true&theme=github_dark&hide_border=true&border_radius=15" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumaroff&layout=compact&theme=github_dark&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=santhoshkumaroff&theme=github-dark-blue&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshkumaroff&theme=github-dark&hide_border=true&radius=16" />
+
+</div>
+
+---
+
+# 🏆 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhoshkumaroff&theme=github_dark" />
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- Agentic AI Systems
+- Advanced RAG Architectures
+- Multi-Agent Workflows
+- MLOps & Deployment
+- AI System Design
 
 ---
 
@@ -179,21 +211,9 @@ Optimization
 
 ✅ Performance Optimization
 
-✅ Problem Solving
-
 ✅ Production Deployments
 
 ✅ Scalable System Design
-
----
-
-# 🌱 Currently Learning
-
-- Agentic AI Systems
-- Advanced RAG Architectures
-- Multi-Agent Workflows
-- AI System Design
-- MLOps & Deployment
 
 ---
 
