@@ -1,139 +1,212 @@
 <div align="center">
 
-# Santhosh Kumar S
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:58A6FF&text=Santhosh%20Kumar%20S&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
 
-### Machine Learning Engineer • Generative AI Developer • Backend Engineer
+# Machine Learning Engineer • Generative AI Developer • Backend Engineer
 
-Building Production-Ready AI Applications, Intelligent Automation Systems & Scalable ML Solutions
+### Building Production-Ready AI Systems, Intelligent Automation & Scalable Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&random=false&width=900&lines=Machine+Learning+Engineer;Generative+AI+Developer;LLM+%26+RAG+Engineer;Python+Backend+Developer;Building+Production-Ready+AI+Systems;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;Generative+AI+Developer;LLM+Engineer;RAG+Specialist;AI+Automation+Developer;Building+Production+Ready+AI+Systems" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-Generative%20AI-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Specialization-LLM%20%26%20RAG-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🔭 Currently building AI-powered applications and automation systems
-- 🌱 Exploring Agentic AI, Advanced RAG Architectures & LLM Engineering
-- 💡 Passionate about Machine Learning, Generative AI and Backend Engineering
-- 🎯 Focused on building scalable production-ready systems
-- 📫 Reach me at: **ssanthoshkumar.official@gmail.com**
+```yaml
+Name: Santhosh Kumar S
+
+Role: Machine Learning Engineer
+
+Focus Areas:
+  - Machine Learning
+  - Generative AI
+  - LLM Applications
+  - Retrieval-Augmented Generation
+  - Backend Engineering
+  - AI Automation
+
+Current Mission:
+  Building intelligent systems that solve real-world business problems.
+```
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-```text
 🟢 Building Production-Ready AI Applications
 
-🟢 Developing LLM & RAG Systems
+🟢 Developing Enterprise RAG Systems
 
 🟢 Exploring Agentic AI Architectures
 
-🟢 Backend API Engineering
+🟢 Designing Scalable Backend APIs
 
 🟢 AI Workflow Automation
-```
+
+🟢 Continuous Learning & Innovation
 
 ---
 
-## 💡 Expertise
+# ⚡ Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,django,fastapi,nodejs,nextjs,angular,postgres,mysql,firebase,docker,git,linux,vscode&perline=8" />
+
+</div>
+
+---
+
+# 🧠 Core Expertise
+
+| Domain | Technologies |
+|----------|----------|
+| Artificial Intelligence | Machine Learning, Deep Learning |
+| Generative AI | LLMs, Prompt Engineering |
+| RAG Systems | LangChain, ChromaDB |
+| Backend Development | FastAPI, Django, Node.js |
+| Frontend Development | Next.js, Angular |
+| Databases | PostgreSQL, MySQL |
+| DevOps | Docker, Linux, Git |
+
+---
+
+# 🏗️ Engineering Architecture
 
 ```text
-Machine Learning      █████████████░ 90%
-
-Generative AI         ████████████░░ 88%
-
-Python Development    ██████████████ 95%
-
-Backend Engineering   ███████████░░░ 85%
-
-System Design         ██████████░░░░ 80%
-
-Data Engineering      █████████░░░░░ 75%
+┌────────────────────────────┐
+│         Frontend           │
+│     Next.js • Angular      │
+└─────────────┬──────────────┘
+              │
+              ▼
+┌────────────────────────────┐
+│          Backend           │
+│      FastAPI • Django      │
+└─────────────┬──────────────┘
+              │
+              ▼
+┌────────────────────────────┐
+│          AI Layer          │
+│      LLM • RAG • Agents    │
+└─────────────┬──────────────┘
+              │
+              ▼
+┌────────────────────────────┐
+│         Databases          │
+│ PostgreSQL • MySQL • Vector│
+└────────────────────────────┘
 ```
 
 ---
 
-## ⭐ Featured Projects
+# 🚀 Featured Projects
 
-### 🎙️ Voice Separation System
-Machine Learning solution for separating speaker and listener voices.
+## 🎙 Voice Separation System
 
-### 🤖 AI Interview Evaluation Platform
-AI-powered candidate assessment and analytics system.
+Machine Learning solution capable of separating speaker and listener voices from mixed audio streams using advanced signal processing.
 
-### 🧠 Enterprise RAG Chatbot
-Knowledge retrieval platform using LLMs and vector databases.
-
-### ⚡ Intelligent Automation Suite
-AI-driven workflow automation platform.
+**Tech:** Python • TensorFlow • Audio Processing
 
 ---
 
-## 🛠️ Tech Stack
+## 🤖 AI Interview Evaluation Platform
 
-### AI & Machine Learning
+AI-powered assessment platform featuring aptitude analysis, coding evaluation, and automated candidate reporting.
 
-![Python](https://img.shields.io/badge/Python-Advanced-success)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-success)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Intermediate-success)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Experienced-success)
-
-### Generative AI
-
-![LLMs](https://img.shields.io/badge/LLMs-Advanced-success)
-![RAG](https://img.shields.io/badge/RAG-Production%20Ready-success)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Advanced-success)
-
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-Experienced-success)
-![Django](https://img.shields.io/badge/Django-Experienced-success)
-![Node.js](https://img.shields.io/badge/Node.js-Experienced-success)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Experienced-success)
+**Tech:** Next.js • FastAPI • Gemini
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Enterprise RAG Assistant
+
+Context-aware knowledge retrieval system powered by vector databases and Large Language Models.
+
+**Tech:** LangChain • ChromaDB • Gemini
+
+---
+
+## ⚡ Intelligent Automation Suite
+
+AI-powered workflow automation platform for streamlining business operations and repetitive tasks.
+
+**Tech:** Python • APIs • Automation
+
+---
+
+# 📈 Development Workflow
+
+```text
+Idea
+ ↓
+Research
+ ↓
+Design
+ ↓
+Development
+ ↓
+Testing
+ ↓
+Deployment
+ ↓
+Optimization
+```
+
+---
+
+# 🏆 Professional Strengths
+
+✅ End-to-End AI Development
+
+✅ Machine Learning Engineering
+
+✅ Backend API Architecture
+
+✅ LLM Integration
+
+✅ RAG Systems
+
+✅ Intelligent Automation
+
+✅ Performance Optimization
+
+✅ Problem Solving
+
+✅ Production Deployments
+
+✅ Scalable System Design
+
+---
+
+# 🌱 Currently Learning
+
+- Agentic AI Systems
+- Advanced RAG Architectures
+- Multi-Agent Workflows
+- AI System Design
+- MLOps & Deployment
+
+---
+
+# 📫 Connect With Me
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshkumaroff&show_icons=true&theme=github_dark&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumaroff&layout=compact&theme=github_dark"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkumaroff&theme=github-dark-blue"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
 
 <a href="https://linkedin.com/in/santhosh-kumar-s-8b413118b">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:ssanthoshkumar.official@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
 <a href="https://github.com/santhoshkumaroff">
@@ -144,12 +217,14 @@ AI-driven workflow automation platform.
 <img src="https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge&logo=hackerrank" />
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
 ### 💡 Transforming Ideas Into Intelligent Systems Through AI & Engineering
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,100:0D1117&section=footer"/>
 
 </div>
