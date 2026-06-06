@@ -147,9 +147,9 @@ AI-powered workflow automation platform designed to streamline business operatio
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshkumaroff&show_icons=true&theme=github_dark&hide_border=true&border_radius=15" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshkumaroff&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumaroff&layout=compact&theme=github_dark&hide_border=true&border_radius=15" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumaroff&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
