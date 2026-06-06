@@ -147,7 +147,7 @@ AI-powered workflow automation platform designed to streamline business operatio
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=santhoshkumaroff&theme=github-dark-blue&hide_border=true&border_radius=15" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=santhoshkumaroff&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
